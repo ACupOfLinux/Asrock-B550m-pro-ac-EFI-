@@ -1,6 +1,6 @@
 !!!!!!!!!!!THIS IS ONLY FOR THIS SPECIFIC MOTHERBOARD!!!!!!!!!!!
 
-You must me using my exact hardware to use this or there are bound to be error's and hardships, so unless you are on the EXACT same hardware as me do not use this.
+You must be using my exact hardware to use this or there are bound to be error's and hardships, so unless you are on the EXACT same hardware as me do not use this.
 
 I have recently updated this to the latest version of opencore and will continue to do so if you are using OSX-KVM with a full machine passthrough this should work for you also if you have the same hardware. 
 
